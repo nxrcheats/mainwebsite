@@ -1,3 +1,12 @@
 [
-  { "username": "admin", "password": "123", "date": "2026-02-08..." }
+  {
+    "username": "admin",
+    "password": "123",
+    "date": "2026-02-08..."
+  },
+  {
+    "username": "ovi",
+    "password": "12345678",
+    "date": "2026-02-08T10:30:21.532Z"
+  }
 ]
